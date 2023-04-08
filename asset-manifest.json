@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32e1661d.css",
+    "main.js": "/static/js/main.8cf43b36.js",
+    "static/media/back.jpg": "/static/media/back.45be73c6b3fa0455faeb.jpg",
+    "static/media/html_table.jpg": "/static/media/html_table.73126600829847f84c76.jpg",
+    "static/media/Erzincan_Binali_Yıldırım_University_logo.svg": "/static/media/Erzincan_Binali_Yıldırım_University_logo.7c2dfb2fcae502aa37d6f9881a73ddfc.svg",
+    "index.html": "/index.html",
+    "main.32e1661d.css.map": "/static/css/main.32e1661d.css.map",
+    "main.8cf43b36.js.map": "/static/js/main.8cf43b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e1661d.css",
+    "static/js/main.8cf43b36.js"
+  ]
+}
